@@ -1,10 +1,14 @@
 {
   "name": "example-node",
-  "version": "0.1",
+  "version": "0.1.0",
   "description": "An example node module build",
   "main": "main.js",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/oculartechie/example-node"
+  },
   "dependencies": {
-    "http-server": "*"
+    "http-server": "^0.9.0"
   },
   "license": "MIT"
 }
