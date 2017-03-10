@@ -1,0 +1,10 @@
+{
+  "name": "example-node",
+  "version": "0.1",
+  "description": "An example node module build",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "*"
+  },
+  "license": "MIT"
+}
