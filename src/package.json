@@ -2,7 +2,7 @@
   "name": "example-node",
   "version": "0.1.0",
   "description": "An example node module build",
-  "main": "src/main.js",
+  "main": "main.js",
   "repository": {
       "type": "git",
       "url": "https://github.com/oculartechie/example-node"
