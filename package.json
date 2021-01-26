@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "karma": "^5.0.8",
+    "karma": "^6.0.2",
     "karma-phantomjs-launcher": "^1.0.4",
     "phantomjs-prebuilt": "^2.1.14",
     "mocha": "^8.0.1",
